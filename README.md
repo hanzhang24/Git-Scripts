@@ -1,2 +1,2 @@
 # Git-Scripts
-Some personal 
+Some personal scripts for git convienence
